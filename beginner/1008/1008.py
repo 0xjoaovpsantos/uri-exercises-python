@@ -1,4 +1,4 @@
-numeroDoFuncionario = int(input())
+numeroDoFuncionario = (input())
 horasTrabalhadas = int(input())
 precoPorHora = float(input())
 
